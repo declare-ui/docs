@@ -1,0 +1,19 @@
+{
+  "name": "@declareui/docs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "DeclareUI documentation site",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": ["declareui", "documentation", "vitepress"],
+  "license": "MIT",
+  "packageManager": "pnpm@10.30.3",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.30"
+  }
+}
