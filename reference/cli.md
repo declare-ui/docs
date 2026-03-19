@@ -1,18 +1,18 @@
 # CLI Reference
 
-The `@declareui/cli` package provides the `declareui` command for creating, building, and validating components.
+The `@declareuihq/cli` package provides the `declareui` command for creating, building, and validating components.
 
 ## Installation
 
 ```bash
 # Global install
-npm install -g @declareui/cli
+npm install -g @declareuihq/cli
 
 # Or use with npx
-npx @declareui/cli <command>
+npx @declareuihq/cli <command>
 
 # Or with pnpm
-pnpm add -g @declareui/cli
+pnpm add -g @declareuihq/cli
 ```
 
 ## Commands

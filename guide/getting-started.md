@@ -7,13 +7,13 @@ Get up and running with DeclareUI in under five minutes.
 Install the CLI globally:
 
 ```bash
-npm install -g @declareui/cli
+npm install -g @declareuihq/cli
 ```
 
 Or use it directly with `npx`:
 
 ```bash
-npx @declareui/cli init my-project
+npx @declareuihq/cli init my-project
 ```
 
 ## Create a project

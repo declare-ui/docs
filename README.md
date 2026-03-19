@@ -32,9 +32,9 @@ Built with [VitePress](https://vitepress.dev/).
 
 | Package | Description |
 |:--------|:------------|
-| [`@declareui/core`](https://github.com/declare-ui/core) | Parser, AST, and code generators |
-| [`@declareui/cli`](https://github.com/declare-ui/cli) | CLI tool |
-| [`@declareui/playground`](https://github.com/declare-ui/playground) | Interactive playground |
+| [`@declareuihq/core`](https://github.com/declare-ui/core) | Parser, AST, and code generators |
+| [`@declareuihq/cli`](https://github.com/declare-ui/cli) | CLI tool |
+| [`@declareuihq/playground`](https://github.com/declare-ui/playground) | Interactive playground |
 
 ## Contributing
 

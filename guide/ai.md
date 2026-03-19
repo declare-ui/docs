@@ -112,7 +112,7 @@ Add to your Claude Desktop configuration (`claude_desktop_config.json`):
   "mcpServers": {
     "declareui": {
       "command": "npx",
-      "args": ["-y", "@declareui/mcp-server"],
+      "args": ["-y", "@declareuihq/mcp-server"],
       "env": {
         "DECLAREUI_PROJECT": "/path/to/your/project"
       }
@@ -130,7 +130,7 @@ Add to your project's `.mcp.json`:
   "mcpServers": {
     "declareui": {
       "command": "npx",
-      "args": ["-y", "@declareui/mcp-server"]
+      "args": ["-y", "@declareuihq/mcp-server"]
     }
   }
 }
